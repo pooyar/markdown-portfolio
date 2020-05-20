@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Ordered List:
+
+1- C#
+2- Node.js
+3- MVC
+4- Core
